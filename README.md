@@ -15,10 +15,16 @@ Using AI-driven analysis, the application generates a structured and professiona
 
 ---
 <img width="1920" height="1080" alt="Screenshot (499)" src="https://github.com/user-attachments/assets/dc7df383-9a3c-41fa-88f5-c45107804ff3" />
-<img width="1920" height="1080" alt="Screenshot (506)" src="https://github.com/user-attachments/assets/44141fa1-8f85-4130-9d82-3e5b2a4ed1fc" />
-<img width="1920" height="1080" alt="Screenshot (505)" src="https://github.com/user-attachments/assets/142348bb-358e-44c7-8874-fa2ff2b27e34" />
-<img width="1920" height="1080" alt="Screenshot (503)" src="https://github.com/user-attachments/assets/a6a1ce63-bba1-4431-99fd-3064ef402d16" />
+
 <img width="1920" height="1080" alt="Screenshot (501)" src="https://github.com/user-attachments/assets/64b09cea-9e43-49c8-85d5-0c4410e274b0" />
+
+<img width="1920" height="1080" alt="Screenshot (503)" src="https://github.com/user-attachments/assets/a6a1ce63-bba1-4431-99fd-3064ef402d16" />
+
+<img width="1920" height="1080" alt="Screenshot (505)" src="https://github.com/user-attachments/assets/142348bb-358e-44c7-8874-fa2ff2b27e34" />
+
+<img width="1920" height="1080" alt="Screenshot (506)" src="https://github.com/user-attachments/assets/44141fa1-8f85-4130-9d82-3e5b2a4ed1fc" />
+
+
 
 ## Features
 
