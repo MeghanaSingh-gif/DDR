@@ -1,7 +1,0 @@
-streamlit
-google-generativeai
-PyMuPDF
-Pillow
-python-dotenv
-markdown
-jinja2
